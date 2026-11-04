@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <pattern id="hatch" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="28" height="28" fill="#E8EFF5"/>
+      <rect width="2" height="28" fill="#162336" fill-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#hatch)"/>
+  <path d="M54 135V54H135 M1065 54H1146V135 M1146 765V846H1065 M135 846H54V765" fill="none" stroke="#2D6AC1" stroke-width="7" stroke-linecap="round"/>
+  <g transform="translate(528 176)" fill="none" stroke="#515D6D" stroke-width="5" stroke-linejoin="round">
+    <rect x="0" y="18" width="144" height="81" rx="12"/>
+    <path d="M43 18l12 -18h35l12 18"/>
+    <circle cx="72" cy="59" r="26"/>
+  </g>
+  <g font-family="Arsenal, 'Segoe UI', Arial, sans-serif">
+    <text x="600.0" y="409" font-size="68" font-weight="700" fill="#162336" text-anchor="middle">Кімната очікування</text>
+    <text x="600.0" y="491" font-size="68" font-weight="700" fill="#162336" text-anchor="middle">з вікном у бокс</text>
+    <text x="600.0" y="595" font-size="38" fill="#515D6D" text-anchor="middle">Горизонтальне 4:3 · у вікні видно авто на підйомнику</text>
+    <text x="600.0" y="762" font-size="38" fill="#2D6AC1" text-anchor="middle" font-weight="700">assets/photos/waiting-room.webp</text>
+    <text x="600.0" y="816" font-size="38" fill="#2D6AC1" text-anchor="middle">1200×900 · «Часті питання»</text>
+  </g>
+</svg>

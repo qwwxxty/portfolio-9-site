@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <defs>
+    <pattern id="hatch" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="28" height="28" fill="#E8EFF5"/>
+      <rect width="2" height="28" fill="#162336" fill-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="1000" fill="url(#hatch)"/>
+  <path d="M48 120V48H120 M680 48H752V120 M752 880V952H680 M120 952H48V880" fill="none" stroke="#2D6AC1" stroke-width="6" stroke-linecap="round"/>
+  <g transform="translate(336 256)" fill="none" stroke="#515D6D" stroke-width="5" stroke-linejoin="round">
+    <rect x="0" y="16" width="128" height="72" rx="11"/>
+    <path d="M38 16l10 -16h31l10 16"/>
+    <circle cx="64" cy="53" r="23"/>
+  </g>
+  <g font-family="Arsenal, 'Segoe UI', Arial, sans-serif">
+    <text x="400.0" y="464" font-size="60" font-weight="700" fill="#162336" text-anchor="middle">Петро</text>
+    <text x="400.0" y="536" font-size="60" font-weight="700" fill="#162336" text-anchor="middle">біля підйомника</text>
+    <text x="400.0" y="628" font-size="34" fill="#515D6D" text-anchor="middle">Вертикальне 4:5 · по пояс, синя куртка</text>
+    <text x="400.0" y="877" font-size="34" fill="#2D6AC1" text-anchor="middle" font-weight="700">assets/photos/master-petro.webp</text>
+    <text x="400.0" y="925" font-size="34" fill="#2D6AC1" text-anchor="middle">800×1000 · «Майстри»</text>
+  </g>
+</svg>
