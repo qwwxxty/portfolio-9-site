@@ -41,7 +41,7 @@ DESIGN.md · PHOTOS.md · README.md
 
 ## Публікація на GitHub Pages
 
-1. Залийте файли в репозиторій на GitHub. Зараз робота лежить у гілці `claude/local-business-website-csc3ym`: або злийте її в `main` через pull request, або виберіть цю гілку на кроці 3.
+1. Залийте файли в репозиторій на GitHub. Гілку з файлами сайту або злийте в `main` через pull request, або виберіть на кроці 3.
 2. Відкрийте репозиторій → **Settings** → **Pages**.
 3. У **Build and deployment** → **Source** виберіть **Deploy from a branch**, далі гілку (`main`) і папку **`/ (root)`**, натисніть **Save**.
 4. За хвилину-дві сайт з'явиться за адресою `https://qwwxxty.github.io/portfolio-9-site/`. Посилання також видно вгорі сторінки Settings → Pages.
